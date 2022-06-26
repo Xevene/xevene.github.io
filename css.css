@@ -1,0 +1,197 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    max-width: 1080px;
+    margin: auto;
+    background-color: #f7e8c8;
+}
+header {
+    float: left;
+    max-width: 400px;
+    width: 40%;
+    
+    padding: 60px 20px 20px 20px;
+    margin: 0;
+    background-color: #f7e8c8;
+}
+
+img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.icon{
+    height: 300px;
+    text-align: center;
+    margin-top: -20px
+}
+
+header h1 {
+    font-size: 2.9em;
+    font-weight: 4000;
+    color: #e6a82e;
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+}
+
+header h2 {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-bottom: 2px;
+    color: #e6a82e;
+    text-align: center;
+}
+
+header h3 {
+    font-size: 0.9em;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 170px;
+}
+header h4 {
+    font-size: 0.9em;
+    font-weight: 700;
+    margin-bottom: 1em;
+    text-align: center;
+}
+.social {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.social ul {
+    padding: 0;
+    margin: 0;
+}
+
+.social li {
+    display: inline-block;
+    padding: 2px 2px;
+    height: 50px;
+    vertical-align: middle;
+    margin: 5px 2px 5px 2px;
+}
+
+.social li:hover {
+    display: inline-block;
+    height: 60px;
+    vertical-align: middle;
+    margin: 0px -3px 0px -3px;
+}
+section{
+    float: right;
+    width: 60%;
+    max-width: 650px;
+    padding: 1% 1% 1% 1%;
+    background-color: white;
+}
+
+.galeria{
+    width: 32%;
+    height: 100%;
+}
+.foto{
+    width: 36%;
+    height: auto;
+    padding: 50px 1% 1% 4%;
+}
+.aboutme{
+    float: right;
+    width: 60%;
+    padding: 0px 30px 10px 10px;
+}
+section h1{
+    color: #e6a82e;
+    font-size: 1.5em;
+    font-weight: 800;
+    margin: 50px 0px 5px 0px;
+}
+.informations{
+    width: 36%;
+    padding: 10px 10px 10px 10px;
+}
+.informations h1{
+    margin: 0px;
+    text-align: center;    
+}
+.local{
+    text-align: center;   
+}
+section h2{
+    color: #e6a82e;
+    font-size: 1em;
+    font-weight: 700;
+    margin:30px 0px 2px 0px;
+}
+section p{
+    font-size: 0.8em;
+}
+.skills{
+    float: right;
+    width: 60%;
+    padding: 10px 30px 10px 10px;
+}
+.skills h2{
+    margin: 0px 0px 2px 0px;
+}
+.direita{
+    padding: 0px 0px 0px 40%;
+}
+
+.works{
+    padding: 1px 0 1px 0;
+    float:inherit
+}
+.works h2{
+    width: 36%;
+    margin:0px 0px 5px 0px;
+}
+.works p{
+    width: 36%;
+    vertical-align: baseline;
+    margin: 10px 0px 40px 0px
+}
+.works img{
+    float:right;
+    width: 60%;
+}
+iframe{
+    float: right;
+    width: 100%;
+    height: 300px;
+}
+.ultimos {
+    float: right;
+    vertical-align: middle;
+    padding: 10px 10px 10px 10px;
+}
+
+.ultimos ul {
+    padding: 0;
+    margin: 0;
+}
+
+.ultimos li {
+    display: inline-block;
+    height: 50px;
+    vertical-align: middle;
+    margin: 0px 0px 0px 0px; 
+}
+
+.ultimos li:hover {
+    height: 60px;
+    vertical-align:middle;
+    margin: -5px -5px -5px -5px; 
+}
+
+.jarra{
+    width: 49%;
+}
+
+.last{
+    margin:0px 0px 40px 0px;
+}
